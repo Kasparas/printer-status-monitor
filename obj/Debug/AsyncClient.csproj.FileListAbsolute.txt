@@ -1,0 +1,7 @@
+C:\Users\Kasparas\Downloads\Async_client_1\bin\Debug\AsyncClient.exe
+C:\Users\Kasparas\Downloads\Async_client_1\bin\Debug\AsyncClient.pdb
+C:\Users\Kasparas\Downloads\Async_client_1\obj\Debug\AsyncClient.csprojResolveAssemblyReference.cache
+C:\Users\Kasparas\Downloads\Async_client_1\obj\Debug\AsyncClient.Form1.resources
+C:\Users\Kasparas\Downloads\Async_client_1\obj\Debug\AsyncClient.csproj.GenerateResource.Cache
+C:\Users\Kasparas\Downloads\Async_client_1\obj\Debug\AsyncClient.exe
+C:\Users\Kasparas\Downloads\Async_client_1\obj\Debug\AsyncClient.pdb
